@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-end Web Developement and C++ programming.
 - 🌱 I’m currently learning Machine Learning Algorithms with Python.
 - 💞️ I’m looking to collaborate on Front-end Web-dev projects and C++ projects.
-- 📫 How to reach me Drop a message here in my github profile.
+- 📫 How to reach me: Drop a message here in my github profile.
 
 <!---
 Ayush-023/Ayush-023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
