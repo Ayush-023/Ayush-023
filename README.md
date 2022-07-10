@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-023
-- 👀 I’m interested in Backend Web Developement and C++ programming.
-- 🌱 I’m currently learning Django.
-- 💞️ I’m looking to collaborate on Back-end Web-dev projects and C++ projects.
+- 👀 I’m interested in Full Stack Web Developement.
+- 🌱 I’m currently learning VueJS and Java.
+- 💞️ I’m looking to collaborate on Web-Dev projects.
 - 📫 How to reach me: Drop a message here in my github profile.
 
 <!---
