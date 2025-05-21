@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush-023
 - 👀 I’m interested in Full Stack Web Developement.
-- 🌱 I’m currently learning VueJS and Java.
+- 🌱 I’m currently learning Java.
 - 💻 My Technical Skills - Flask, Django, Angular, Spring Boot, SQL.
 - 💞️ I’m looking to collaborate on Web-Dev projects.
 - 📫 How to reach me: Drop a message here in my github profile.
